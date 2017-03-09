@@ -83,7 +83,7 @@
 #header_searchbox, .tagline {text-align: left;}
 /* end header */
 
-.pagecont-wrapper {padding-bottom: 50px;}
+.pagecont-wrapper {background: #eee;}
 
 /* start Footer navigation */
 .footer-wrapper {
@@ -123,6 +123,6 @@
 }
 /* end Footer navigation */
 /* start page & main content */
-.pagebox {background: #fff; min-height: 300px;}
+.pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 30px;}
 /* end page & main content */
 
