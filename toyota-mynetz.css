@@ -1,0 +1,123 @@
+/* CSS Document designed by Green Labo (www.greenlabo.co.th) */
+.btn-default {
+	color: #fff;
+	border: 1px solid #2b83dd;
+	background: #3fa9f5; /* Old browsers */
+	background: -moz-linear-gradient(top, #3fa9f5 0%, #2b83dd 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #3fa9f5 0%,#2b83dd 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #3fa9f5 0%,#2b83dd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3fa9f5', endColorstr='#2b83dd',GradientType=0 ); /* IE6-9 */
+}
+.btn:focus, .btn:hover {border: 1px solid #3fa9f5;}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {border-color: #2b83dd!important;}
+
+/* start header */
+#settotop {clear: both; float: none; height: 1px; overflow: hidden; background: #126fb5;}
+.header-wrapper {
+	border-top: 10px solid #126fb5;
+	background: #fff url(http://greenlabo.co.th/projects/tyt-mynetz/images/bg_header.jpg) repeat-x center -15px;
+	min-height: 150px;
+	margin-bottom: 30px;
+}
+#logo_mynetz {
+	float: right;
+	margin-left: 10px;
+	position: absolute;
+	right: 0;
+	top: 10px;
+}
+#logo_mynetz img {height: 70px; width: auto;}
+#top_nav {
+	padding: 5px;
+	background: #3ea8f2; /* Old browsers */
+	background: -moz-linear-gradient(top, #3ea8f2 0%, #2f8de4 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #3ea8f2 0%,#2f8de4 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #3ea8f2 0%,#2f8de4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ea8f2', endColorstr='#2f8de4',GradientType=0 ); /* IE6-9 */
+}
+.header-wrapper .navbar-nav {float: none;}
+#top_nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#top_nav ul li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+#top_nav ul > li > a {
+	padding: 16px 15px;
+	line-height: 40px;
+	color: #fff;
+	text-decoration: none;
+}
+#top_nav ul > li > a:hover, #tyt-banav a:hover {
+	background: rgba(0,0,0,0.1);
+}
+#top_nav ul > li > a img {
+	width: 18px;
+	height: 18px;
+}
+#tyt-banav a {
+	color: #fff;
+}
+#tyt-banav a img  {
+	width: 18px;
+	height: 18px;
+}
+#tyt-banav {
+	background: #3ea8f2; /* Old browsers */
+	background: -moz-linear-gradient(top, #3ea8f2 0%, #2f8de4 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #3ea8f2 0%,#2f8de4 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #3ea8f2 0%,#2f8de4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ea8f2', endColorstr='#2f8de4',GradientType=0 ); /* IE6-9 */
+}
+#header-tagbox {min-height: 90px; padding-top: 15px;}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {background: rgba(0,0,0,0.1);}
+.dropdown-menu {background: #eee;}
+.dropdown-menu a {color: #126fb5!important;}
+.dropdown-menu a:hover {color: #D02918; background: rgba(0,0,0,0.05);}
+#tpnav_cart {float: right;}
+#header_searchbox, .tagline {text-align: left;}
+/* end header */
+
+.pagecont-wrapper {padding-bottom: 50px;}
+
+/* start Footer navigation */
+.footer-wrapper {
+	padding: 0 0 15px 0;
+	background: #3454a9;
+	color: #fff;
+}
+.footer-wrapper p {margin: 0; padding: 0;}
+.footer-wrapper a {color: #fff;}
+.footer-wrapper a:hover {color: #fff;}
+#footer_second {
+	padding: 15px 0;
+	background: #0e5992;
+}
+#footer_third {padding: 15px 0;}
+#footer_nav {
+	padding: 15px 0;
+	background: #126fb5;
+}
+#footer_nav .container {position: relative;}
+#footer_nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#footer_nav ul li {
+	display: inline;
+	margin: 0 15px;
+}
+#b2topfttr {
+	padding: 10px;
+	height: 30px;
+	position: absolute;
+	top: -45px;
+	right: 15px;
+	background: #126fb5;
+}
+/* end Footer navigation */
