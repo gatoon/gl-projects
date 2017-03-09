@@ -17,7 +17,7 @@
 	border-top: 10px solid #126fb5;
 	background: #fff url(http://greenlabo.co.th/projects/tyt-mynetz/images/bg_header.jpg) repeat-x center -15px;
 	min-height: 150px;
-	margin-bottom: 30px;
+	margin-bottom: 0;
 }
 #logo_mynetz {
 	float: right;
@@ -73,6 +73,7 @@
 	background: linear-gradient(to bottom, #3ea8f2 0%,#2f8de4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ea8f2', endColorstr='#2f8de4',GradientType=0 ); /* IE6-9 */
 }
+#topnaveholder .navbar {margin-bottom: 0;}
 #header-tagbox {min-height: 90px; padding-top: 15px;}
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {background: rgba(0,0,0,0.1);}
 .dropdown-menu {background: #eee;}
@@ -121,3 +122,7 @@
 	background: #126fb5;
 }
 /* end Footer navigation */
+/* start page & main content */
+.pagebox {background: #fff; min-height: 300px;}
+/* end page & main content */
+
