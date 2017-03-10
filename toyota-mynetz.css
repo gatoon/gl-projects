@@ -1,4 +1,5 @@
 /* CSS Document designed by Green Labo (www.greenlabo.co.th) */
+.setclearline {clear: both; float: none; height: 1px; overflow: hidden;}
 .btn-default {
 	color: #fff;
 	border: 1px solid #2b83dd;
