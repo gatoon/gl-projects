@@ -1,5 +1,5 @@
 /* CSS Document designed by Green Labo (www.greenlabo.co.th) */
-body {background: rgb(46,46,46) url(../images/bg-page.jpg) repeat-x center top fixed;}
+body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/images/bg-page.jpg) repeat-x center top fixed;}
 .setclearline {clear: both; float: none; height: 1px; overflow: hidden;}
 .btn-default {
 	color: #fff;
@@ -19,7 +19,7 @@ body {background: rgb(46,46,46) url(../images/bg-page.jpg) repeat-x center top f
 #settotop {clear: both; float: none; height: 1px; overflow: hidden; background: #126fb5;}
 .header-wrapper {
 	border-top: 10px solid #126fb5;
-	background: transparent url(../images/bg_header.png) repeat-x center -15px;
+	background: transparent url(http://greenlabo.co.th/projects/tyt-mynetz/images/bg_header.png) repeat-x center -15px;
 	min-height: 150px;
 	margin-bottom: 0;
 }
