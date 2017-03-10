@@ -83,7 +83,14 @@ body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/i
 .dropdown-menu {background: #eee;}
 .dropdown-menu a {color: #126fb5!important;}
 .dropdown-menu a:hover {color: #D02918; background: rgba(0,0,0,0.05);}
-#tpnav_cart {float: right;}
+#tpnav_cart {
+	float: right;
+	background: #ff3019; /* Old browsers */
+	background: -moz-linear-gradient(top, #ff3019 1%, #cc0000 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #ff3019 1%,#cc0000 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #ff3019 1%,#cc0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cc0000',GradientType=0 ); /* IE6-9 */
+}
 #header_searchbox, .tagline {text-align: left;}
 /* end header */
 
@@ -127,6 +134,6 @@ body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/i
 }
 /* end Footer navigation */
 /* start page & main content */
-.pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 30px;}
+.pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 50px;}
 /* end page & main content */
 
