@@ -8,6 +8,7 @@ h5 {font-size: 0.75em;}
 h6 {font-size: 0.565em;}
 body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/images/bg-page.jpg) repeat-x center top fixed;}
 .setclearline {clear: both; float: none; height: 1px; overflow: hidden;}
+.banner-wrapper img {width: 100%; height: auto;}
 .btn-default {
 	color: #fff;
 	border: 1px solid #2b83dd;
