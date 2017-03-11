@@ -167,6 +167,8 @@ body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/i
 	background: linear-gradient(to bottom, #3ea8f2 0%,#2f8de4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ea8f2', endColorstr='#2f8de4',GradientType=0 ); /* IE6-9 */
 }
+.sidebar-banner {margin-bottom: 20px;}
+.sidebar-banner img {width: 100%; height: auto;}
 
 /* product assets */
 .plst-thumb {margin-bottom: 10px;}
