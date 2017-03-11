@@ -135,5 +135,31 @@ body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/i
 /* end Footer navigation */
 /* start page & main content */
 .pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 50px;}
+.panel-default > .panel-heading, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+	border-color: #ddd;
+	color: #333;
+	background: #f2f5f6; /* Old browsers */
+	background: -moz-linear-gradient(top, #f2f5f6 0%, #e3eaed 37%, #c8d7dc 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f5f6', endColorstr='#c8d7dc',GradientType=0 ); /* IE6-9 */
+}
+.btn-primary {
+	background: #3ea8f2; /* Old browsers */
+	background: -moz-linear-gradient(top, #3ea8f2 0%, #2f8de4 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #3ea8f2 0%,#2f8de4 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #3ea8f2 0%,#2f8de4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ea8f2', endColorstr='#2f8de4',GradientType=0 ); /* IE6-9 */
+}
+
+/* product assets */
+.plst-thumb img {width: 100%; height: auto;}
 /* end page & main content */
+
+/* start responsive */
+@media only screen 
+and (min-width : 770px) {
+	#tpnav_cart {margin-right: -15px;}
+}
+
 
