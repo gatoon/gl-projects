@@ -31,6 +31,7 @@ body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/i
 	min-height: 150px;
 	margin-bottom: 0;
 }
+#site_logo {padding-top: 15px;}
 #logo_mynetz {
 	float: right;
 	margin-left: 10px;
