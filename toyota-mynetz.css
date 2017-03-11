@@ -1,11 +1,11 @@
 /* CSS Document designed by Green Labo (www.greenlabo.co.th) */
 h1,h2,h3,h4,h5,h6 {margin-top: 0; margin-bottom: 10px;}
-h1 {font-size: 1rem;}
-h2 {font-size: 0.8333rem;}
-h3 {font-size: 0.6667rem;}
-h4 {font-size: 0.5833rem;}
-h5 {font-size: 0.5rem;}
-h6 {font-size: 0.4167rem;}
+h1 {font-size: 1.5em;}
+h2 {font-size: 1.375em;}
+h3 {font-size: 1em;}
+h4 {font-size: 0.875em;}
+h5 {font-size: 0.75em;}
+h6 {font-size: 0.565em;}
 body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/images/bg-page.jpg) repeat-x center top fixed;}
 .setclearline {clear: both; float: none; height: 1px; overflow: hidden;}
 .btn-default {
