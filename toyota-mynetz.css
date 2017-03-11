@@ -170,7 +170,7 @@ body {background: rgb(46,46,46) url(http://greenlabo.co.th/projects/tyt-mynetz/i
 }
 .sidebar-banner {margin-bottom: 20px;}
 .sidebar-banner img {width: 100%; height: auto;}
-#big_slide {margin-bottom: 0;}
+#big_slide {margin-bottom: 0!important;}
 
 /* product assets */
 .plst-thumb {margin-bottom: 10px;}
