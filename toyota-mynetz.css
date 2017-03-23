@@ -24,6 +24,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .navbar-default {border: none;}
 
 /* start header */
+.tagline {text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
 #settotop {clear: both; float: none; height: 1px; overflow: hidden; background: #126fb5;}
 .header-wrapper {
 	border-top: 10px solid #126fb5;
