@@ -179,6 +179,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 /* end page & main content */
 
 /* start home slides */
+#ba-slides {background: #fff;}
 #ba-slides .item img {width: 100%; height: auto;}
 /* end home slides */
 
