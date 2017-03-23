@@ -178,6 +178,39 @@ body {background: rgb(0,48,45) url(http://greenlabo.co.th/projects/tyt-mynetz/im
 .plst-thumb img {width: 100%; height: auto;}
 /* end page & main content */
 
+/* slider */
+#slider div {
+  width: 1300px !important;
+}
+
+.slider {
+  margin: 0 auto 60px;
+  width: 1300px;
+}
+.slider .bx-wrapper {
+  z-index: 0;
+  margin-bottom: 0;
+}
+.slider .bx-wrapper .bx-viewport {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  left: 0 !important;
+  border: none !important;
+}
+.slider .bx-wrapper .bx-caption {
+  background: #000;
+  background: rgba(0, 0, 0, 0.6);
+}
+.slider .bx-wrapper .bx-caption span {
+  font-size: 18px;
+  padding: 30px;
+}
+.slider .bx-wrapper .bx-pager {
+  padding-top: 20px !important;
+  bottom: -30px !important;
+}
+
 /* start responsive */
 @media only screen 
 and (min-width : 770px) {
