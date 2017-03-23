@@ -180,12 +180,12 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 
 /* slider */
 #slider div {
-  width: 1300px !important;
+  width: 1170px !important;
 }
 
 .slider {
   margin: 0 auto 60px;
-  width: 1300px;
+  width: 1170px;
 }
 .slider .bx-wrapper {
   z-index: 0;
