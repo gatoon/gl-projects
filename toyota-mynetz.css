@@ -24,7 +24,6 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .navbar-default {border: none;}
 
 /* start header */
-.tagline {text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
 #settotop {clear: both; float: none; height: 1px; overflow: hidden; background: #126fb5;}
 .header-wrapper {
 	border-top: 10px solid #126fb5;
@@ -101,7 +100,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 	background: linear-gradient(to bottom, #ff3019 1%,#cc0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cc0000',GradientType=0 ); /* IE6-9 */
 }
-#header_searchbox, .tagline {text-align: left;}
+#header_searchbox, .tagline {text-align: left; text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
 /* end header */
 
 .pagecont-wrapper {}
