@@ -101,7 +101,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cc0000',GradientType=0 ); /* IE6-9 */
 }
 #header_searchbox, .tagline {text-align: left;}
-.tagline {text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
+.tagline {text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff; margin-bottom: 5px;}
 /* end header */
 
 .pagecont-wrapper {}
