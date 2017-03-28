@@ -179,10 +179,12 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .plst-thumb img {width: 100%; height: auto;}
 /* end page & main content */
 
-/* start home slides */
-#ba-slides {background: #fff;}
-#ba-slides .item img {width: 100%; height: auto;}
-/* end home slides */
+/* ##### left sidebar ##### */
+/* recommended products */
+#sidebar_recommend .plst-thumb {width: 64px; height: 64px; float: left; margin-right: 5px; margin-bottom: 5px;}
+#sidebar_recommend .plst-thumb img {width: 100%; height: auto;}
+/* ##### end left sidebar ##### */
+
 
 /* start responsive */
 @media only screen 
