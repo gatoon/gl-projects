@@ -180,6 +180,11 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .pdtcat-title {font-size: 1.4em;}
 .filter-toolbar {margin-bottom: 15px;}
 .filter-heading, .filter-info {line-height: 40px;}
+.pdctlist-box {
+	width: 23%;
+	display: inline;;
+	margin: 0 1% 20px;
+}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
