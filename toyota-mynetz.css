@@ -186,6 +186,10 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 	min-height: 200px;
 	margin: 0 1% 20px;
 }
+.pdctlist-bttmnavi {
+	margin: 0 0 20px;
+	line-height: 40px;
+}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
