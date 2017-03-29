@@ -177,7 +177,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 /* product assets */
 .plst-thumb {margin-bottom: 10px;}
 .plst-thumb img {width: 100%; height: auto;}
-.pdtcat-title {font-size: 1.4em;}
+.page-title {font-size: 1.4em;}
 .filter-toolbar {
 	clear: both;
 	margin-bottom: 15px;
@@ -197,7 +197,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 }
 .filter-info {text-align: right;}
 .pdct-thumb {margin-bottom: 10px;}
-.pdct-thumb .img-thumbnail {border-radius: 0;}
+.img-thumbnail {border-radius: 0;}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
