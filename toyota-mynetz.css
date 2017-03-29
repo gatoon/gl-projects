@@ -177,6 +177,9 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 /* product assets */
 .plst-thumb {margin-bottom: 10px;}
 .plst-thumb img {width: 100%; height: auto;}
+.pdtcat-title {font-size: 1.4em;}
+.filter-toolbar {margin-bottom: 15px;}
+.filter-heading, .filter-info {line-height: 40px;}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
@@ -187,9 +190,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 
 
 /* start responsive */
-@media only screen 
+@media only screen
 and (min-width : 770px) {
 	#tpnav_cart {margin-right: -15px;}
 }
-
-
