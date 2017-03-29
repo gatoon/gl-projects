@@ -188,14 +188,14 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 	float: left;
 	min-height: 200px;
 	margin: 0 1% 20px;
+	text-align: center;
 }
 .pdctlist-bttmnavi {
 	clear: both;
 	margin: 0 0 20px;
 	line-height: 40px;
 }
-.filter-info, .pdctlist-bn02 {text-align: center;}
-.filter-viewswitcher, .pdctlist-bn03 {text-align: right;}
+.filter-info {text-align: right;}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
