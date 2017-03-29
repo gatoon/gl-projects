@@ -196,6 +196,8 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 	line-height: 40px;
 }
 .filter-info {text-align: right;}
+.pdct-thumb {margin-bottom: 10px;}
+.pdct-thumb .img-thumbnail {border-radius: 0;}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
