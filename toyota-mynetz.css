@@ -219,6 +219,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 #share2friend a:hover {background: #eee;}
 #product_reviews {margin-bottom: 10px;}
 .pdct-desc {margin-bottom: 20px;}
+.pdct-detail-gall-main {margin-bottom: 10px;}
 .pdct-detail-gall-main img {width: 100%; height: auto;}
 #pdct_view_thumblist {clear: both; float: none; list-style-type: none;}
 #pdct_view_thumblist li {
