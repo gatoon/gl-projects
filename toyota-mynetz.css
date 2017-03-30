@@ -144,6 +144,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 }
 /* end Footer navigation */
 /* start page & main content */
+.sectionbox {clear: both; float: none; margin-bottom: 20px;}
 .pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 50px;}
 .panel-default > .panel-heading, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
 	border-color: #ddd;
