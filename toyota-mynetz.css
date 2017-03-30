@@ -199,6 +199,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .pdct-thumb {margin-bottom: 10px;}
 .img-thumbnail {border-radius: 0;}
 /* product view */
+.product-detail-info, .product-detail-gallery {margin-bottom: 30px;}
 .product-detail-pg .pdctlist-box {width: 18%;}
 .pdct-sharing ul {list-style-type: none;}
 .pdct-sharing li {
@@ -217,6 +218,13 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 }
 #share2friend a:hover {background: #eee;}
 #product_reviews {margin-bottom: 10px;}
+.pdct-desc {margin-bottom: 20px;}
+.pdct-detail-gall-main img {width: 100%; height: auto;}
+#pdct_view_thumblist {clear: both; float: none;}
+#pdct_view_thumblist li img {
+	width: 90px;
+	height: 90px;
+}
 /* end page & main content */
 
 /* ##### left sidebar ##### */
