@@ -202,18 +202,20 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .product-detail-pg .pdctlist-box {width: 18%;}
 .pdct-sharing ul {list-style-type: none;}
 .pdct-sharing li {
-	display: inline;
+	display: inline-flex;
 	margin-right: 10px;
 	vertical-align: middle;
 }
 #share2friend a {
 	height: 20px;
-	line-height: 14px;
+	line-height: 10px;
 	font-size: 10px;
 	border: 1px solid #ccc;
 	padding: 5px 8px;
 	border-radius: 4px;
+	text-decoration: none;
 }
+#share2friend a:hover {background: #eee;}
 #product_reviews {margin-bottom: 10px;}
 /* end page & main content */
 
