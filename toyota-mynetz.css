@@ -153,8 +153,9 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 	padding: 20px 10px;
 	min-height: 20px;
 	border: 1px solid #ccc;
+	border-radius: 5px;
 }
-.icon-pg {font-size: 64px;}
+.icon-pg {font-size: 64px; margin-bottom: 20px;}
 .panel-default > .panel-heading, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
 	border-color: #ddd;
 	color: #333;
