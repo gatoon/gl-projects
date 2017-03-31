@@ -147,6 +147,14 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .sectionbox {clear: both; float: none; margin-bottom: 20px;}
 .section-pict img {width: 100%; height: auto;}
 .pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 50px;}
+.iconbox {
+	width: 70%;
+	margin: 0 auto;
+	padding: 20px 10px;
+	min-height: 20px;
+	border: 1px solid #ccc;
+}
+.icon-pg {font-size: 64px;}
 .panel-default > .panel-heading, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
 	border-color: #ddd;
 	color: #333;
