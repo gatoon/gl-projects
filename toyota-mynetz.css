@@ -145,6 +145,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 /* end Footer navigation */
 /* start page & main content */
 .sectionbox {clear: both; float: none; margin-bottom: 20px;}
+.sectionbox h2 {color: #09519a;}
 .section-pict img {width: 100%; height: auto;}
 .pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 50px;}
 .iconbox {
@@ -159,7 +160,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .panel-default > .panel-heading, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
 	border-left-color: #ddd;
 	border-top-color: #ddd;
-	border-right-color: #ddd;
+	border-right-color: #fff;
 	border-bottom-color: #fff;
 	color: #fff;
 	background: #fff url(https://file002.shop-pro.jp/PA01383/759/images/bg-bar-title.jpg) no-repeat right top;
