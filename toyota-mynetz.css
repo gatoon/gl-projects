@@ -145,7 +145,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 /* end Footer navigation */
 /* start page & main content */
 .sectionbox {clear: both; float: none; margin-bottom: 20px;}
-.sectionbox h2, h2.page-title {color: #09519a;}
+.sectionbox h2, h2.page-title {color: #09519a; font-size: 2em;}
 .section-pict img {width: 100%; height: auto;}
 .pagebox {background: #fff; min-height: 300px; padding-top: 30px; padding-bottom: 50px;}
 .iconbox {
@@ -254,13 +254,13 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .shop-info-map img {width: 100%; height: auto;}
 .bordered-box {padding: 15px; border: 5px solid #eee;}
 #shop_info_signbox {width: 70%; margin: 0 auto 20px; text-align: center;}
-#shop_info_signbox h3 {font-size: 1.8em; font-weight: bold;}
+#shop_info_signbox h3 {font-size: 1.4em; font-weight: bold;}
 #shop_info_signbox ul {list-style-type: none;}
 #shop_info_signbox ul li {width: 50%; display: inline; margin: 0 5px;}
 #shop_info_signbox img {width: 32px; height: 32px; display: inline;}
 #shop_info_table img {width: 24px; height: 24px; display: inline; margin-right: 5px;}
 #shop_info_table thead {background-color: #09519a; color: #fff;}
-.branch-area {background-color: #217ad3;}
+.branch-area {background-color: #09519a;}
 
 
 /* start responsive */
