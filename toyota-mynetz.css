@@ -158,7 +158,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 .icon-pg {font-size: 64px; margin-bottom: 20px;}
 .panel-default > .panel-heading, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
 	border-color: #ddd;
-	color: #333;
+	color: #fff;
 	background: #fff url(https://file002.shop-pro.jp/PA01383/759/images/bg-bar-title.jpg) no-repeat right top;
 }
 .list-group-item:first-child, .panel-heading {
