@@ -250,6 +250,13 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 #sidebar_recommend .plst-thumb img {width: 100%; height: auto;}
 /* ##### end left sidebar ##### */
 
+/* ##### shop information ##### */
+.shop-info-map img {width: 100%; height: auto;}
+.bordered-box {padding: 15px; border: 5px solid #eee;}
+#shop_info_signbox {width: 70%; margin: 0 auto 20px;}
+#shop_info_signbox img {width: 64px; height: 64px; display: inline;}
+#shop_info_table img {width: 24px; height: 24px; display: inline; margin-right: 5px;}
+
 
 /* start responsive */
 @media only screen
