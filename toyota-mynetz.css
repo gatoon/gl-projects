@@ -9,6 +9,7 @@ h6 {font-size: 0.565em;}
 body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/images/bg-page.jpg) repeat-x center top fixed;}
 .setclearline {clear: both; float: none; height: 1px; overflow: hidden;}
 .full-pict img {width: 100%; height: auto;}
+.main ul {padding-left: 20px;}
 .banner-wrapper img {width: 100%; height: auto;}
 .btn-primary {
 	color: #fff;
@@ -267,6 +268,8 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 #shop_info_table thead {background-color: #09519a; color: #fff;}
 .branch-area {background-color: #bfd8f0!important;}
 
+/* ##### about us page ##### */
+#about_us_pg h3 {font-size: 1.6rem; font-weight: 600; color: #09519a;}
 
 /* start responsive */
 @media only screen
