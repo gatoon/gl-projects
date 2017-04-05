@@ -270,7 +270,7 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 
 /* ##### about us page ##### */
 #about_us_pg h3 {font-size: 1.6rem; font-weight: 600; color: #09519a;}
-#about_us_p01 {background: transparent url('https://file002.shop-pro.jp/PA01383/759/images/pict-about-us01.jpg') no-repeat center; background-size: contain;}
+#about_us_p02 {background: transparent url('https://file002.shop-pro.jp/PA01383/759/images/pict-about-us02.jpg') no-repeat center; background-size: contain;}
 
 /* start responsive */
 @media only screen
