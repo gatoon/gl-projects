@@ -276,4 +276,5 @@ body {background: rgb(0,48,45) url(https://file002.shop-pro.jp/PA01383/759/image
 @media only screen
 and (min-width : 770px) {
 	#tpnav_cart {margin-right: -15px;}
+	#abu_txt03 {padding-top: 50px;}
 }
